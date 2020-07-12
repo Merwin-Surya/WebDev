@@ -1,0 +1,27 @@
+body{
+background-color: #fff;
+}
+header{
+  width:600px;
+  height: 150px;
+  background-color:#F4E032;
+}
+h1.header-main{
+  margin: 25px 5px 5px 5px;
+  color: black;
+  font-family: 'Fondamento', cursive;
+  float: left;
+}
+div.logo{
+  height:150px;
+  float: left;
+}
+div.about{
+  float:left;
+}
+.about>p{
+  color: black;
+  margin: 0px 5px 5px 5px;
+  font-size: 15px;
+  font-family: 'Fondamento', cursive;
+}
