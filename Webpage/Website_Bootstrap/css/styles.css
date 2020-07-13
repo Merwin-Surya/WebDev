@@ -9,6 +9,7 @@ background-color: #fff;
 header{
   width:600px;
   height: 150px;
+  display: block;
   background-color:#F4E032;
   animation-name: headbackground;
   animation-duration: 4s;
