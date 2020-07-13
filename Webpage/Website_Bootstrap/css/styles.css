@@ -1,10 +1,17 @@
 body{
 background-color: #fff;
 }
+/*Animation Styles*/
+@keyframes headbackground {
+  from {background-color:#F4E032;}
+  to {background-color:#DE16CA;}
+}
 header{
   width:600px;
   height: 150px;
   background-color:#F4E032;
+  animation-name: headbackground;
+  animation-duration: 4s;
 }
 h1.header-main{
   margin: 25px 5px 5px 5px;
